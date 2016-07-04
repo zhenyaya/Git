@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 git 1
 learn 2
+creat dev master
