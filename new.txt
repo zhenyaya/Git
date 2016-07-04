@@ -1,2 +1,2 @@
-git edition control
-learn git
+git 1
+learn 2
